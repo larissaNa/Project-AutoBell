@@ -1,0 +1,36 @@
+#cabecalho{
+    z-index: 0;
+}
+.flash-messages {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #0d0d0d;
+    z-index: 999;
+  }
+
+#logo_ifpi{
+    width: 90px;
+    height: 90px;
+}
+
+#logo{
+    width: 140px;
+    height: 140px;
+}
+
+#menu {
+    width: 20px;
+    height: 20px;
+}
+
+#botao_menu{
+    padding-right: 50%;
+}
+
+#logo_header {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 0%;
+}   
